@@ -1,0 +1,15 @@
+.navbar {
+    background-color: rgb(202, 202, 248);
+}
+
+.container {
+    height:600px;
+    width:1500px;
+}
+
+.one {
+background-image: url('/assets/med4.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+

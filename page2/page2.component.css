@@ -1,0 +1,28 @@
+.three {
+    width:200px;
+    height:200px;
+    margin-left: 200px;
+}
+
+.four {
+    margin-left: 200px;
+}
+
+.five {
+    margin-left: 100px;
+}
+
+.border1 {
+    width:50px;
+    height:250px;
+    margin-left:200px;
+    border:1px solid lightgray;
+}
+
+.two {
+    height:80px;
+}
+
+.six{
+    margin-left:350px;
+}
